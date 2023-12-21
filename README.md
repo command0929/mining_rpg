@@ -1,2 +1,2 @@
 # mining_rpg
-광산 RPG [ + ]
+광산 RPG
